@@ -23,3 +23,4 @@ This script:
 2. Run the script:
    ```bash
    node insert-link.js
+   node replace-link.js
